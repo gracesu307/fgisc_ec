@@ -50,7 +50,7 @@ $(".q3btn").click(function(){
     $(".q3btn").css("color", "#00B37B");
     score += 10;
     show_score(score);
-    alert('耶耶答對了q(≧▽≦q)我們是第36屆 學妹們就是37屆啦\(@^0^@)/');
+    alert('對的沒錯！友社也是「研習」喔');
   }
   else{
     $(".q3btn").html('⨉');
